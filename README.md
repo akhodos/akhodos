@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akhodos aka Tim
 - 👀 I’m interested in fintech, trading and sport statistics
-- 🌱 I’m currently learning highload architecture principles 
 - 📫 How to reach me https://www.linkedin.com/in/artem-khodos/
 
 <!---
